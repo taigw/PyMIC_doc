@@ -9,12 +9,6 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This project is under active development. 
+   The documentation has been moved to: https://pymic.readthedocs.io/en/latest/index.html 
 
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
